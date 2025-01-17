@@ -1,0 +1,5 @@
+Me llamo Darwin
+Me apellido Guerra
+24 años
+Mi alias es Lawi
+Me gusta Python
